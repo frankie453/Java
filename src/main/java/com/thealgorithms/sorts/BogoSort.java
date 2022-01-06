@@ -5,6 +5,7 @@ import java.util.Random;
 /**
  * @author Podshivalov Nikita (https://github.com/nikitap492)
  * @see SortAlgorithm
+ * Yida Pan wuhhhu
  */
 public class BogoSort implements SortAlgorithm {
 
